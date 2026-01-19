@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Quản Lý Giường Bệnh</title>
+    <style>
+        /* CSS để iframe tràn màn hình và không có thanh cuộn thừa */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            overflow: hidden; /* Ẩn thanh cuộn của trang GitHub */
+            background-color: #f0f2f5;
+        }
+        iframe {
+            border: none;
+            width: 100%;
+            height: 100%;
+            display: block; /* Loại bỏ khoảng trắng thừa */
+        }
+    </style>
+</head>
+<body>
+    <iframe src="https://script.google.com/macros/s/AKfycbyg3agS9SmnX3Lw14swaKGkEEiD1-kSYe_0RXn1O5xZUaJ5TDRdLXHxHMZU0rMkjASuCQ/exec"></iframe>
+</body>
+</html>
